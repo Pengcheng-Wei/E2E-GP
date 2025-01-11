@@ -17,6 +17,7 @@ The code mainly relys on Pytorch 2.1.
 ./run.sh
 ```
 
+Note: when partitioning a graph in too many partitions, empty partitions may happens.
 
 
 Please cite this paper if you use the model or any code from this repository in your own work:
